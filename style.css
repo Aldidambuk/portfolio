@@ -1,0 +1,39 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #1a2238;
+  color: white;
+}
+
+#about {
+  background-color: #a52a2a;
+  color: white;
+}
+
+#projects {
+  background-color: #1a2238;
+  color: white;
+}
+
+#contact {
+  background-color: #a52a2a;
+  color: white;
+}
+
+#btn {
+  background-color: #1a2238;
+  color: white;
+}
+
+#footer {
+  background-color: #1a2238;
+  color: white;
+  padding-bottom: 5px;
+}
+
+section {
+  padding-top: 6rem;
+}
